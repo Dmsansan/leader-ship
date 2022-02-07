@@ -6,4 +6,4 @@
 
 1.添加画板，描绘行为轨迹
 
-![轨迹动图](./assert/soogif.webm)
+![轨迹动图](https://github.com/Dmsansan/leader-ship/blob/main/assert/jpanel.png)
